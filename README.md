@@ -81,3 +81,4 @@ flowchart LR
     D --> E[Análise Operacional]
     E --> F[Atualização Diário/SLA]
     F --> G[Resultados + Indicadores (Painel)]
+
