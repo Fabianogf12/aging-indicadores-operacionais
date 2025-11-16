@@ -1,89 +1,89 @@
-# 📊 Aging — Indicadores Operacionais (Excel + Dados)
+📊 Aging — Indicadores Operacionais (Excel + Dados)
 
 Ferramenta criada para apoiar a gestão do Backoffice Operacional (CRC/JEC), trazendo visão clara do Aging, priorização automática, alertas visuais e cálculo da média operacional.
 
-O objetivo é reduzir retrabalho, garantir prazos, aprimorar o acompanhamento diário e impactar diretamente os indicadores de performance (5 estrelas / variável).
+Objetivo: reduzir retrabalho, garantir prazos, aprimorar o acompanhamento diário e impactar diretamente os indicadores de performance (5 estrelas / variável).
 
----
+🎯 Objetivo do Projeto
 
-## 🎯 Objetivo do Projeto
+Controlar Aging com precisão e clareza.
 
-- Controlar aging com precisão e clareza.  
-- Auxiliar no cumprimento dos prazos do JEC/Backoffice.  
-- Facilitar priorização rápida das demandas urgentes.  
-- Entregar visão diária da operação para tomada de decisão.  
-- Reduzir erros operacionais que afetam a variável (80%/100%/125%).
+Auxiliar no cumprimento dos prazos do CRC/JEC/Backoffice.
 
----
+Facilitar priorização rápida dos chamados urgentes.
 
-## 🧠 Principais Funcionalidades
+Entregar visão diária de operação para tomada de decisão.
 
-✔ Cálculo automático do Aging (Dias em Aberto)  
-✔ Classificação por cores inteligente (condicional)  
-✔ Destaque automático para prazos críticos  
-✔ Legendas visuais integradas (verde, amarelo, laranja, vermelho)  
-✔ Cálculo da média geral do Aging da operação  
-✔ Campo de observações personalizadas para cada caso  
-✔ Status de prazo (Dentro / Atenção / Urgente / Vence Hoje / Vencido)  
-✔ Layout profissional com identidade visual da TIM
+Reduzir erros operacionais que afetam a variável (80%/100%/125%).
 
----
+🧠 Principais Funcionalidades
 
-## 📸 Exemplo da Planilha (Screenshot)
+✔️ Cálculo automático do Aging (Dias em Aberto)
 
-> *(Você pode colocar a imagem depois: Insert → Add file → Upload image)*  
-> Por enquanto deixe assim.
+✔️ Classificação por prazo via inteligência (condicional)
 
----
+✔️ Destaque automático para prazos críticos
 
-## 🏷️ Regra da Classificação por Prazo
+✔️ Legendas visuais integradas (verde, amarelo, laranja, vermelho)
 
-| Faixa | Dias | Cor |
-|------|------|------|
-| Dentro do prazo | 0–5 dias | 🟩 Verde |
-| Atenção | 4–5 dias | 🟨 Amarelo |
-| Urgente | 6–8 dias | 🟧 Laranja |
-| Vence hoje | 9 dias | 🟥 Vermelho claro |
-| Vencido | ≥10 dias | 🟥 Vermelho |
+✔️ Cálculo da média geral do Aging da operação
 
----
+✔️ Campo de observações personalizadas para cada caso
 
-## 🛠️ Tecnologias Utilizadas
+✔️ Status do prazo (Dentro / Atenção / Urgente / Vence Hoje / Vencido)
 
-- Excel  
-- Formatação Condicional  
-- Funções: `SE()`, `DIFDATA`, `CONT.SE`  
-- Regras personalizadas  
-- Layout e design (branding TIM)
+✔️ Layout profissional com identidade visual da TIM
 
----
+🖼️ Exemplo da Planilha (Screenshot)
 
-## 🚀 Resultados & Benefícios
+(Você pode adicionar uma imagem depois: Insert → Add file → Upload image)
 
-- Visão unificada para priorização diária.  
-- Redução de erros e retrabalhos.  
-- Operação mais organizada e previsível.  
-- Ajuda direta no desempenho do indicador 5 Estrelas / Variável.  
-- Apoio para tomada de decisão operacional.  
-- Entrega mais profissional e padronizada.
+🟦 Regra de Classificação por Prazo
+Faixa	Dias	Cor
+Dentro do prazo	0–3 dias	Verde 🟩
+Atenção	4–5 dias	Amarelo 🟨
+Urgente	6–8 dias	Laranja 🟧
+Vence hoje	9 dias	Vermelho claro 🟥
+Vencido	≥10 dias	Vermelho 🔴
 
----
+Regras 100% alinhadas à operação JEC/CRC.
 
-## 📂 Arquivos no Repositório
+🛠️ Tecnologias Utilizadas
 
-- `aging-operacional.xlsx` — versão principal pronta para uso.  
-- `readme_assets/` — imagens usadas no README (opcional).  
+Excel
 
----
+Formatação Condicional
 
-## ✨ Status do Projeto
+Funções: SE, DIFDATAS, CONT.SE, REGRAS PERSONALIZADAS
 
-✔ Concluído  
-🔧 Melhorias visuais e automações podem ser adicionadas futuramente.
+Layout e design (Branding TIM)
 
----
+🚀 Resultados & Benefícios
 
-## 👤 Autor
+Visão unificada para priorização diária.
 
-**Fabiano Ferreira**  
+Redução de erros e retrabalhos.
+
+Operação mais organizada e previsível.
+
+Ajuda direta no desempenho do indicador 5 Estrelas / Variável.
+
+Apoio para tomada de decisão operacional.
+
+Entrega mais profissional ao jurídico.
+
+📁 Arquivos no Repositório
+
+aging-operacional.xlsx — versão principal pronta para uso
+
+readme_assets/ — imagens e ícones usados no README
+
+📌 Status do Projeto
+
+✔️ Concluído
+Melhorias visuais e automações podem ser adicionadas futuramente.
+
+✍️ Autor
+
+Fabiano Ferreira
 Transformando operações em processos inteligentes usando Dados, BI e Automação.
