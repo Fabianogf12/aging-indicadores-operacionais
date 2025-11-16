@@ -212,7 +212,7 @@ Transformando operações em processos inteligentes utilizando Dados, BI e Autom
 LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Feito%20por-Fabiano%20Ferreira-090909?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Desenvolvido%20por-Fabiano%20Ferreira-003f87?style=for-the-badge&logo=azure-pipelines&logoColor=white">
 </p>
 
 
