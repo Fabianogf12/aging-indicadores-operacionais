@@ -152,12 +152,12 @@ Regras alinhadas ao fluxo JEC/CRC.
 
 # 📊 Resultados & Beneficios
 
-✔ Visao unificada e padronizada da operacao  
-✔ Reducao de erros e retrabalho  
-✔ Operacao mais previsivel  
-✔ Impacto direto no indicador 5 Estrelas / Variavel  
-✔ Melhora na tomada de decisao  
-✔ Entregas mais rapidas ao juridico  
+✔ Visão unificada e padronizada da operação  
+✔ Redução de erros e retrabalho  
+✔ Operação mais previsível  
+✔ Impacto direto no indicador 5 Estrelas / Variável  
+✔ Melhora na tomada de decisão  
+✔ Entregas mais rápidas ao jurídico  
 ✔ Melhora no controle de aging e SLA  
 
 ---
