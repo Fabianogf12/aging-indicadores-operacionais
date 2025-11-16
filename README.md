@@ -73,12 +73,15 @@ Este projeto nasce para:
 
 # 🔄 Fluxo Operacional (Diagrama)
 
-```mermaid
-flowchart LR
-    A[Recebimento dos Casos] --> B[Inserção no Excel]
-    B --> C[Classificação Automática (Dias/Aging)]
-    C --> D[Identificação de Risco por Cor]
-    D --> E[Análise Operacional]
-    E --> F[Atualização Diário/SLA]
-    F --> G[Resultados + Indicadores (Painel)]
+`mermaid
+flowchart TB
+    A([Recebimento de Casos])
+    B([Insercao no Excel])
+    C([Classificacao Automatica - Aging])
+    D([Identificacao de Risco por Cor])
+    E([Analise Operacional])
+    F([Atualizacao Diario / SLA])
+    G([Resultados e Indicadores])
+
+    A --> B --> C --> D --> E --> F --> G
 
