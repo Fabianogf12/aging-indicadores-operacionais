@@ -1,4 +1,4 @@
-# 🇺🇸 AGING — Operational Indicators (Excel + Data)
+# AGING — Operational Operational Indicators (Excel + Data)
 
 <p align="right">
   <a href="./README.md"><img src="https://img.shields.io/badge/PT--BR-Portuguese-blue?style=for-the-badge"></a>
