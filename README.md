@@ -85,5 +85,20 @@ flowchart TB
 
     A --> B --> C --> D --> E --> F --> G
 
+---
+
+# ✨ Principais Funcionalidades
+
+- ✔ Calculo automatico do Aging (Dias em Aberto)
+- ✔ Classificacao por prazo via regras inteligentes
+- ✔ Destaque visual imediato para prazos criticos
+- ✔ Legendas integradas (verde, amarelo, laranja, vermelho)
+- ✔ Calculo da media global da operacao
+- ✔ Campo de observacoes por caso
+- ✔ Sinalizacao de status (Dentro, Atencao, Urgente, Vence Hoje, Vencido)
+- ✔ Layout profissional baseado na identidade visual da TIM
+
+
+
 
 
