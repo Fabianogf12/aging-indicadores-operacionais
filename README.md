@@ -207,14 +207,12 @@ Melhorias visuais e novas funcões poderão ser adicionadas futuramente.
 # 👤 Autor
 
 **Fabiano Ferreira**  
-Transformando operacões em processos inteligentes utilizando Dados, BI e Automacão.
+Transformando operações em processos inteligentes utilizando Dados, BI e Automação.
 
 LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvido%20por-Fabiano%20Ferreira-1a73e8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAARklEQVQokWP8////fwYGBgYjIuLi4r+QkZHBwMDAwPCfkpiYGP7///8MMjAw4h8gZGRk/5GBgYFUIRdjwAAAwBoKQn1m/QpVQAAAABJRU5ErkJggg==" alt="seal">
+  <img src="https://img.shields.io/badge/Feito%20por-Fabiano%20Ferreira-090909?style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-
 
 
