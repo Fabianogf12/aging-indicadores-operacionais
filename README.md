@@ -73,7 +73,7 @@ Este projeto nasce para:
 
 # 🔄 Fluxo Operacional (Diagrama)
 
-`mermaid
+```mermaid
 flowchart TB
     A([Recebimento de Casos])
     B([Insercao no Excel])
@@ -84,4 +84,5 @@ flowchart TB
     G([Resultados e Indicadores])
 
     A --> B --> C --> D --> E --> F --> G
+
 
