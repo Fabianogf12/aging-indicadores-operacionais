@@ -114,6 +114,8 @@ flowchart TB
   <img src="./exemplo-planilha-aging.png" width="900" alt="Exemplo da Planilha - Aging Operacional">
 </p>
 
+⚠️ **Aviso:** Os dados apresentados na imagem são totalmente fictícios e utilizados apenas para fins demonstrativos.  
+Nenhuma informação real de clientes da TIM foi utilizada neste projeto.
 ---
 
 # 🎨 Regra de Classificacao por Prazo
