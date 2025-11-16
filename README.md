@@ -224,3 +224,5 @@ LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
 Sugestões, melhorias ou feedbacks são sempre bem-vindos!  
 Abra uma *Issue* ou entre em contato diretamente pelo LinkedIn.
 
+Este projeto está em evolução contínua — novas versões serão lançadas conforme melhorias forem implementadas.
+
