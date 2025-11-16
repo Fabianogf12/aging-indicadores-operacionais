@@ -86,6 +86,94 @@ flowchart TB
 
 ```
 
+# ✨ Principais Funcionalidades
+
+✔ Calculo automatico do Aging (Dias em Aberto)  
+✔ Classificacao por prazos com inteligencia condicional  
+✔ Destaque visual para prazos criticos  
+✔ Legendas integradas (verde, amarelo, laranja, vermelho)  
+✔ Calculo da media global da operacao  
+✔ Campo de observacoes por caso  
+✔ Status por prazo (Dentro, Atencao, Urgente, Vence Hoje, Vencido)  
+✔ Layout profissional baseado no branding TIM  
+
+---
+
+# 🖼️ Exemplo da Planilha
+
+*(Adicione o print aqui depois que fizer upload.)*
+
+---
+
+# 🎨 Regra de Classificacao por Prazo
+
+| Faixa            | Dias      | Cor                |
+|------------------|-----------|--------------------|
+| Dentro do prazo  | 0–3 dias  | 🟢 Verde           |
+| Atencao          | 4–5 dias  | 🟡 Amarelo         |
+| Urgente          | 6–8 dias  | 🟠 Laranja         |
+| Vence hoje       | 9 dias    | 🔴 Vermelho Claro  |
+| Vencido          | ≥ 10 dias | 🔴 Vermelho        |
+
+Regras alinhadas ao fluxo JEC/CRC.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+- Excel  
+- Formatacao Condicional  
+- Funcoes: `SE`, `CONT.SE`, regras personalizadas  
+- Layout inspirado no Branding TIM  
+- Automatizacao interna por formulas  
+
+---
+
+# 🚀 Como Usar
+
+1. Baixe o arquivo `aging-operacional.xlsx`.  
+2. Abra no Excel Desktop.  
+3. Preencha a aba **Entrada** com os casos.  
+4. A classificacao acontecera automaticamente.  
+5. Utilize a cor e o Aging para priorizar o trabalho.  
+6. Preencha observacoes conforme necessario.  
+7. Utilize para reunioes diarias e acompanhamento de SLA.  
+
+---
+
+# 📂 Arquivos no Repositorio
+
+- `aging-operacional.xlsx` — Planilha principal  
+- `readme_assets/` — Imagens utilizadas  
+- `README.md` — Documentacao do projeto  
+
+---
+
+# 📊 Resultados & Beneficios
+
+✔ Visao unificada e padronizada da operacao  
+✔ Reducao de erros e retrabalho  
+✔ Operacao mais previsivel  
+✔ Impacto direto no indicador 5 Estrelas / Variavel  
+✔ Melhora na tomada de decisao  
+✔ Entregas mais rapidas ao juridico  
+✔ Melhora no controle de aging e SLA  
+
+---
+
+# 📌 Status do Projeto
+
+**Concluido**  
+Melhorias visuais e novas funcoes poderao ser adicionadas futuramente.
+
+---
+
+# 👤 Autor
+
+**Fabiano Ferreira**  
+Transformando operacoes em processos inteligentes utilizando Dados, BI e Automacao.
+
+LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
 
 
 
