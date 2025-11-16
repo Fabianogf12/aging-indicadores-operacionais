@@ -111,7 +111,7 @@ flowchart TB
 # 🖼️ Exemplo da Planilha
 
 <p align="center">
-  <img src="readme_assets/exemplo-planilha-aging.png" width="900" alt="Exemplo de Planilha Aging Operacional">
+  <img src="./exemplo-planilha-aging.png" width="900" alt="Exemplo da Planilha - Aging Operacional">
 </p>
 
 ---
