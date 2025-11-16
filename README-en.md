@@ -1,25 +1,13 @@
-# 🇺🇸 AGING --- Operational Indicators (Excel + Data)
+# 🇺🇸 AGING — Operational Indicators (Excel + Data)
 
-```{=html}
 <p align="right">
-```
-`<a href="./README.md">`{=html}
-`<img src="https://img.shields.io/badge/PT--BR-Portuguese-blue?style=for-the-badge">`{=html}
-`</a>`{=html} `<a href="./README-en.md">`{=html}
-`<img src="https://img.shields.io/badge/EN-English-green?style=for-the-badge">`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="./README.md"><img src="https://img.shields.io/badge/PT--BR-Portuguese-blue?style=for-the-badge"></a>
+  <a href="./README-en.md"><img src="https://img.shields.io/badge/EN-English-green?style=for-the-badge"></a>
 </p>
-```
-```{=html}
-<p align="right">
-```
-`<img src="https://img.shields.io/badge/Version-v1.0-blue?style=flat-square">`{=html}
-```{=html}
-</p>
-```
+
 A tool designed to support the Backoffice Operation (CRC/JEC), providing
 a clear view of Aging, automated deadline classification, visual alerts,
+and high-quality operational indicators.
 and high-quality operational indicators.
 
 The goal is to reduce rework, ensure deadlines, improve daily
