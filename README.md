@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Concluido-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Excel-Planilhas-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/Automação-Backoffice-0A66C2?style=for-the-badge&logo=azure-pipelines&logoColor=white">
+  <img src="https://img.shields.io/badge/Automacao-Backoffice-0A66C2?style=for-the-badge&logo=azure-pipelines&logoColor=white">
   <img src="https://img.shields.io/badge/Projeto-Aging%20Operacional-6A0DAD?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
 </p>
@@ -14,26 +14,26 @@
 
 # 📘 Aging — Indicadores Operacionais (Excel + Dados)
 
-Ferramenta criada para apoiar a gestão do Backoffice Operacional (CRC/JEC), trazendo visão clara do Aging,
-priorização automática, alertas visuais e cálculo da média operacional.
+Ferramenta criada para apoiar a gestao do Backoffice Operacional (CRC/JEC), trazendo visao clara do Aging,
+priorizacao automatica, alertas visuais e calculo da media operacional.
 
-O objetivo é reduzir retrabalho, garantir prazos, melhorar o acompanhamento diário e impactar diretamente os
-indicadores de performance (5 estrelas / variável).
+O objetivo e reduzir retrabalho, garantir prazos, melhorar o acompanhamento diario e impactar diretamente
+os indicadores de performance (5 estrelas / variavel).
 
 ---
 
-# 📌 Índice
+# 📌 Indice
 
 - [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
 - [🧠 Por Que Este Projeto Existe?](#-por-que-este-projeto-existe)
 - [🔄 Fluxo Operacional (Diagrama)](#-fluxo-operacional-diagrama)
 - [✨ Principais Funcionalidades](#-principais-funcionalidades)
 - [🖼️ Exemplo da Planilha](#️-exemplo-da-planilha)
-- [🎨 Regra de Classificação por Prazo](#-regra-de-classificação-por-prazo)
+- [🎨 Regra de Classificacao por Prazo](#-regra-de-classificacao-por-prazo)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [🚀 Como Usar](#-como-usar)
-- [📂 Arquivos no Repositório](#-arquivos-no-repositório)
-- [📊 Resultados & Benefícios](#-resultados--benefícios)
+- [📂 Arquivos no Repositorio](#-arquivos-no-repositorio)
+- [📊 Resultados & Beneficios](#-resultados--beneficios)
 - [📌 Status do Projeto](#-status-do-projeto)
 - [👤 Autor](#-autor)
 
@@ -41,33 +41,32 @@ indicadores de performance (5 estrelas / variável).
 
 # 🎯 Objetivo do Projeto
 
-- Controlar o Aging com precisão e clareza.  
+- Controlar o Aging com precisao e clareza.  
 - Auxiliar no cumprimento dos prazos do JEC/Backoffice.  
-- Facilitar priorização diária com dados atualizados.  
-- Entregar visão direta da operação para tomada de decisão.  
-- Reduzir erros operacionais e aumentar o desempenho dos indicadores.  
+- Facilitar priorizacao diaria com dados atualizados.  
+- Entregar visao clara da operacao para tomada de decisao.  
+- Reduzir erros operacionais e melhorar o desempenho dos indicadores.  
 
 ---
 
 # 🧠 Por Que Este Projeto Existe?
 
-A operação do Backoffice depende **diretamente** do cumprimento de prazos e das análises diárias
-de Aging e vencimentos.  
-Sem um painel claro, a equipe corre risco de:
+A operacao do Backoffice depende diretamente do cumprimento de prazos e da analise diaria do Aging.  
+Sem padronizacao, a operacao corre risco de:
 
-- perder prazos importantes  
+- perder prazos  
 - aumentar retrabalho  
-- elevar o risco jurídico (JEC/CCR)  
-- ter queda de performance no 5 estrelas (variável)  
-- perder controle sobre aging médio da operação  
+- elevar risco juridico  
+- reduzir performance do 5 estrelas (variavel)  
+- perder controle do aging medio  
 
 Este projeto nasce para:
 
-✔ resolver esse problema  
-✔ padronizar a análise  
-✔ reduzir erros  
-✔ melhorar a tomada de decisão  
-✔ entregar velocidade e clareza para o operador e o gestor  
+- resolver esse problema  
+- padronizar a analise  
+- reduzir erros  
+- melhorar tomada de decisao  
+- entregar velocidade e clareza ao operador e gestor  
 
 ---
 
@@ -84,21 +83,3 @@ flowchart TB
     G([Resultados e Indicadores])
 
     A --> B --> C --> D --> E --> F --> G
-
----
-
-# ✨ Principais Funcionalidades
-
-- ✔ Calculo automatico do Aging (Dias em Aberto)
-- ✔ Classificacao por prazo via regras inteligentes
-- ✔ Destaque visual imediato para prazos criticos
-- ✔ Legendas integradas (verde, amarelo, laranja, vermelho)
-- ✔ Calculo da media global da operacao
-- ✔ Campo de observacoes por caso
-- ✔ Sinalizacao de status (Dentro, Atencao, Urgente, Vence Hoje, Vencido)
-- ✔ Layout profissional baseado na identidade visual da TIM
-
-
-
-
-
