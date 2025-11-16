@@ -1,97 +1,83 @@
 <p align="center">
-  <img src="banner-aging-indicadores-operacionais.png" alt="Banner Aging - Indicadores Operacionais">
+  <img src="banner-aging-indicadores-operacionais.png" width="900" alt="Banner Aging Operacional">
 </p>
 
-
-
-
-# 📊 Aging — Indicadores Operacionais (Excel + Dados)
-
-Ferramenta criada para apoiar a gestão do Backoffice Operacional (CRC/JEC), trazendo visão clara do Aging, priorização automática, alertas visuais e cálculo da média operacional.
-
-O objetivo é reduzir retrabalho, garantir prazos, aprimorar o acompanhamento diário e impactar diretamente os indicadores de performance (5 estrelas / variável).
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Excel-Planilhas-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Automação-Backoffice-0A66C2?style=for-the-badge&logo=azure-pipelines&logoColor=white">
+  <img src="https://img.shields.io/badge/Projeto-Aging%20Operacional-6A0DAD?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+</p>
 
 ---
 
-## 🎯 Objetivo do Projeto
-https://github.com/Fabianogf12/aging-indicadores-operacionais/blob/main/README.md
-- Controlar Aging com precisão e clareza.  
+# 📘 Aging — Indicadores Operacionais (Excel + Dados)
+
+Ferramenta criada para apoiar a gestão do Backoffice Operacional (CRC/JEC), trazendo visão clara do Aging,
+priorização automática, alertas visuais e cálculo da média operacional.
+
+O objetivo é reduzir retrabalho, garantir prazos, melhorar o acompanhamento diário e impactar diretamente os
+indicadores de performance (5 estrelas / variável).
+
+---
+
+# 📌 Índice
+
+- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
+- [🧠 Por Que Este Projeto Existe?](#-por-que-este-projeto-existe)
+- [🔄 Fluxo Operacional (Diagrama)](#-fluxo-operacional-diagrama)
+- [✨ Principais Funcionalidades](#-principais-funcionalidades)
+- [🖼️ Exemplo da Planilha](#️-exemplo-da-planilha)
+- [🎨 Regra de Classificação por Prazo](#-regra-de-classificação-por-prazo)
+- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [🚀 Como Usar](#-como-usar)
+- [📂 Arquivos no Repositório](#-arquivos-no-repositório)
+- [📊 Resultados & Benefícios](#-resultados--benefícios)
+- [📌 Status do Projeto](#-status-do-projeto)
+- [👤 Autor](#-autor)
+
+---
+
+# 🎯 Objetivo do Projeto
+
+- Controlar o Aging com precisão e clareza.  
 - Auxiliar no cumprimento dos prazos do JEC/Backoffice.  
-- Facilitar priorização rápida das demandas urgentes.  
-- Entregar visão diária da operação para tomada de decisão.  
-- Reduzir erros operacionais que afetam a variável (80%/100%/125%).
+- Facilitar priorização diária com dados atualizados.  
+- Entregar visão direta da operação para tomada de decisão.  
+- Reduzir erros operacionais e aumentar o desempenho dos indicadores.  
 
 ---
 
-## ✨ Principais Funcionalidades
+# 🧠 Por Que Este Projeto Existe?
 
-- ✔️ Cálculo automático do Aging (Dias em Aberto)  
-- ✔️ Classificação por prazo via inteligência (condicional)  
-- ✔️ Destaque automático para prazos críticos  
-- ✔️ Legendas visuais integradas (verde, amarelo, laranja, vermelho)  
-- ✔️ Cálculo da média geral do Aging da operação  
-- ✔️ Campo de observações personalizadas para cada caso  
-- ✔️ Status do prazo (Dentro / Atenção / Urgente / Vence Hoje / Vencido)  
-- ✔️ Layout profissional com identidade visual da TIM  
+A operação do Backoffice depende **diretamente** do cumprimento de prazos e das análises diárias
+de Aging e vencimentos.  
+Sem um painel claro, a equipe corre risco de:
 
----
+- perder prazos importantes  
+- aumentar retrabalho  
+- elevar o risco jurídico (JEC/CCR)  
+- ter queda de performance no 5 estrelas (variável)  
+- perder controle sobre aging médio da operação  
 
-## 🖼️ Exemplo da Planilha (Screenshot)
+Este projeto nasce para:
 
-*(Você pode adicionar a imagem depois — Insert → Add file → Upload image)*
-
----
-
-## 📌 Regra de Classificação por Prazo
-
-| Faixa         | Dias       | Cor              |
-|---------------|------------|------------------|
-| Dentro do prazo | 0–3 dias  | 🟩 Verde          |
-| Atenção         | 4–5 dias | 🟨 Amarelo        |
-| Urgente         | 6–8 dias | 🟧 Laranja        |
-| Vence hoje      | 9 dias   | 🟥 Vermelho claro |
-| Vencido         | ≥ 10 dias | 🔴 Vermelho       |
-
-Regras 100% alinhadas à operação JEC/CRC.
+✔ resolver esse problema  
+✔ padronizar a análise  
+✔ reduzir erros  
+✔ melhorar a tomada de decisão  
+✔ entregar velocidade e clareza para o operador e o gestor  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 🔄 Fluxo Operacional (Diagrama)
 
-- Excel  
-- Formatação Condicional  
-- Funções: **SE, DIFDATAS, CONT.SE**, regras personalizadas  
-- Layout e design (Branding TIM)
-
----
-
-## 🏆 Resultados & Benefícios
-
-- Visão unificada para priorização diária.  
-- Redução de erros e retrabalhos.  
-- Operação mais organizada e previsível.  
-- Impacto direto no desempenho do indicador **5 Estrelas / Variável**.  
-- Apoio para tomada de decisão operacional.  
-- Entrega mais profissional ao jurídico.  
-- Maior eficiência e clareza para toda a equipe.
-
----
-
-## 📂 Arquivos no Repositório
-
-- `aging-operacional.xlsx` — versão principal pronta para uso.  
-- `readme_assets/` — imagens e ícones usados no README (opcional).
-
----
-
-## 🚧 Status do Projeto
-
-**Concluído ✔️**  
-Novas melhorias visuais e automações podem ser adicionadas futuramente.
-
----
-
-## ✍️ Autor
-
-**Fabiano Ferreira**  
-Transformando operações em processos inteligentes utilizando Dados, BI e Automação.
+```mermaid
+flowchart LR
+    A[Recebimento dos Casos] --> B[Inserção no Excel]
+    B --> C[Classificação Automática (Dias/Aging)]
+    C --> D[Identificação de Risco por Cor]
+    D --> E[Análise Operacional]
+    E --> F[Atualização Diário/SLA]
+    F --> G[Resultados + Indicadores (Painel)]
