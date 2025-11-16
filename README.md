@@ -110,7 +110,9 @@ flowchart TB
 
 # 🖼️ Exemplo da Planilha
 
-*(Adicione o print aqui depois que fizer upload.)*
+<p align="center">
+  <img src="readme_assets/exemplo-planilha-aging.png" width="900" alt="Exemplo de Planilha Aging Operacional">
+</p>
 
 ---
 
