@@ -220,3 +220,7 @@ LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
 </p>
 
 
+# 🤝 Contribuições
+Sugestões, melhorias ou feedbacks são sempre bem-vindos!  
+Abra uma *Issue* ou entre em contato diretamente pelo LinkedIn.
+
