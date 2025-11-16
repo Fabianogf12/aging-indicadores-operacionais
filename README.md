@@ -3,6 +3,7 @@
 </p>
 
 
+
 # 📊 Aging — Indicadores Operacionais (Excel + Dados)
 
 Ferramenta criada para apoiar a gestão do Backoffice Operacional (CRC/JEC), trazendo visão clara do Aging, priorização automática, alertas visuais e cálculo da média operacional.
@@ -12,7 +13,7 @@ O objetivo é reduzir retrabalho, garantir prazos, aprimorar o acompanhamento di
 ---
 
 ## 🎯 Objetivo do Projeto
-
+https://github.com/Fabianogf12/aging-indicadores-operacionais/blob/main/README.md
 - Controlar Aging com precisão e clareza.  
 - Auxiliar no cumprimento dos prazos do JEC/Backoffice.  
 - Facilitar priorização rápida das demandas urgentes.  
