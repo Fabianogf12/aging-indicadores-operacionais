@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fabianogf12/aging-indicadores-operacionais/main/banner-aging-indicadores-operacionais.png" alt="Banner do Projeto Aging" />
+</p>
+
+
 # 📊 Aging — Indicadores Operacionais (Excel + Dados)
 
 Ferramenta criada para apoiar a gestão do Backoffice Operacional (CRC/JEC), trazendo visão clara do Aging, priorização automática, alertas visuais e cálculo da média operacional.
