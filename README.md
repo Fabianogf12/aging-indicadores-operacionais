@@ -86,7 +86,8 @@ flowchart TB
 
 ```
 
-# ✨ Principais Funcionalidades
+<h2 style="color:#4FC3F7">✨ Principais Funcionalidades</h2>
+
 
 ✔ Calculo automatico do Aging (Dias em Aberto)  
 ✔ Classificacao por prazos com inteligencia condicional  
