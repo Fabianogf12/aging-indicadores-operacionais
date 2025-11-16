@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fabianogf12/aging-indicadores-operacionais/main/banner-aging-indicadores-operacionais.png" alt="Banner do Projeto Aging" />
+  <img src="banner-aging-indicadores-operacionais.png" alt="Banner Aging - Indicadores Operacionais">
 </p>
+
 
 
 
