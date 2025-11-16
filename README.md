@@ -2,7 +2,7 @@
   <img src="banner-aging-indicadores-operacionais.png" width="900" alt="Banner Aging Operacional">
 </p>
 
-# 📦 Download Rápido
+## 📦 Download Rápido
 
 ➡️ **Clique abaixo para baixar a versão mais recente:**  
 📥 [Baixar arquivo (aging-operacional.xlsx)](./aging-operacional.xlsx)
@@ -210,6 +210,11 @@ Melhorias visuais e novas funcões poderão ser adicionadas futuramente.
 Transformando operacões em processos inteligentes utilizando Dados, BI e Automacão.
 
 LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvido%20por-Fabiano%20Ferreira-1a73e8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAARklEQVQokWP8////fwYGBgYjIuLi4r+QkZHBwMDAwPCfkpiYGP7///8MMjAw4h8gZGRk/5GBgYFUIRdjwAAAwBoKQn1m/QpVQAAAABJRU5ErkJggg==" alt="seal">
+</p>
+
 
 
 
