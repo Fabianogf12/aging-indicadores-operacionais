@@ -165,8 +165,8 @@ Regras alinhadas ao fluxo JEC/CRC.
 
 Este projeto agrega valor direto aos processos operacionais da TIM por meio de:
 
-- 🔹 Organizacao e padronizacao do fluxo operacional  
-- 🔹 Reducao de erros na classificacao manual de aging  
+- 🔹 Organizacão e padronizacao do fluxo operacional  
+- 🔹 Reducão de erros na classificacao manual de aging  
 - 🔹 Maior previsibilidade e controle dos prazos do JEC/CRC  
 - 🔹 Suporte para tomada de decisao mais rapida e assertiva  
 - 🔹 Indicadores alinhados ao modelo de performance (5 Estrelas / Variavel)  
@@ -184,14 +184,14 @@ Este painel foi construido com foco na eficiencia, velocidade e clareza — elem
 # 📌 Status do Projeto
 
 **Concluido**  
-Melhorias visuais e novas funcoes poderao ser adicionadas futuramente.
+Melhorias visuais e novas funcões poderão ser adicionadas futuramente.
 
 ---
 
 # 👤 Autor
 
 **Fabiano Ferreira**  
-Transformando operacoes em processos inteligentes utilizando Dados, BI e Automacao.
+Transformando operacões em processos inteligentes utilizando Dados, BI e Automacão.
 
 LinkedIn: https://www.linkedin.com/in/fabiano-ferreira-767100229
 
