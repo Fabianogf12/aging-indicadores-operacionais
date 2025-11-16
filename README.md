@@ -2,6 +2,14 @@
   <img src="banner-aging-indicadores-operacionais.png" width="900" alt="Banner Aging Operacional">
 </p>
 
+# 📦 Download Rápido
+
+➡️ **Clique abaixo para baixar a versão mais recente:**  
+📥 [Baixar arquivo (aging-operacional.xlsx)](./aging-operacional.xlsx)
+
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Concluido-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Excel-Planilhas-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -177,6 +185,14 @@ Este projeto agrega valor direto aos processos operacionais da TIM por meio de:
 Este painel foi construido com foco na eficiencia, velocidade e clareza — elementos essenciais para a rotina operacional da TIM.
 
 ---
+# 🛣️ Roadmap (Melhorias Futuras)
+
+- [ ] Criar dashboard no Power BI usando os dados do Aging
+- [ ] Adicionar validação de dados automatizada
+- [ ] Criar macro para geração automática da legenda
+- [ ] Adicionar versão com proteção de células
+- [ ] Automação de envio diário (Power Automate)
+- [ ] Criar versão integrada com base de dados externa
 
 
 ---
